@@ -63,3 +63,6 @@ Empresa <|-- EmpresaDesarrollo
 
 Empleado "1" --> "1" Empresa : trabaja en
 @enduml
+
+<h1>Diagrama de Clase</h1>
+<img width="1054" height="767" alt="Diagrama de clases" src="https://github.com/user-attachments/assets/87ac35f9-9087-49e8-b947-7ce4f8dbc7d8" />
