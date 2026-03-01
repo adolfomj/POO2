@@ -1,5 +1,5 @@
 # POO2
-Hola profesor aqui le adjunto el codigo que utilicé para el diagrama
+Hola profesor aqui le adjunto el codigo que utilicé para el diagrama, la imagen del diagrama y éste es el enlace del video en Youtube : https://youtu.be/9HDrqr_i_Wg
 <hr>
 @startuml
 ' ===== CLASES =====
